@@ -1,0 +1,17 @@
+# File khoá/tạm của Microsoft Word — KHÔNG phải tài liệu dự án
+~$*.docx
+~$*.doc
+~$*.xlsx
+~$*.pptx
+
+# File tạm
+*.tmp
+*.bak
+*.orig
+
+# Rác hệ điều hành
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# LƯU Ý: KHÔNG bỏ qua *.docx — báo cáo Word là tài liệu chính của repo này.
